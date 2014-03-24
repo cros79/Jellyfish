@@ -1,0 +1,3 @@
+[submodule "InvNetCore"]
+	path = InvNetCore
+	url = https://github.com/cros79/InvNetCore.git
